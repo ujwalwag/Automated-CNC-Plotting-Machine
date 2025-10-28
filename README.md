@@ -52,8 +52,6 @@ Connect the drivers and sensors to the Arduino Mega 2560.
 
 Software Setup:
 
-Clone this repository: git clone [YOUR_REPO_URL]
-
 Open the .ino file in the Arduino IDE.
 
 Install the required libraries (e.g., AccelStepper).
