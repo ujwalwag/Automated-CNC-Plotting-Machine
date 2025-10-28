@@ -60,6 +60,8 @@ Install the required libraries (e.g., AccelStepper).
 
 Upload the code to your Arduino Mega.
 
+![final flowchart](https://github.com/user-attachments/assets/7aa392e9-0e8b-43eb-8d5e-b6102c8905f2)
+
 Future Work
 
 This project serves as a strong foundation for further development. Potential next steps include:
