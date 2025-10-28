@@ -70,4 +70,4 @@ Machine Vision: Integrating a camera for computer vision tasks, such as weed det
 
 Scalability Testing: Adapting the design for larger-scale farming plots.
 
-Read the project document [here]()
+Read the project document [here](https://github.com/ujwalwag/Automated-CNC-Plotting-Machine/blob/main/final.doc)
